@@ -6,9 +6,6 @@ permalink: /docs/softwareEng2026
 
 # ソフトウェア工学 2026
 
-## git/github演習
-[softwareEng Lecture Notes](softwareEng2025.md)
-
 ## 第1回
 ソフトウェア工学は
 - 実務から体系化されている
